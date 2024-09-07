@@ -1,14 +1,16 @@
-# Welcome to your CDK TypeScript project
+# udemy 学習項目
 
-This is a blank project for CDK development with TypeScript.
+## ts-starter
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+複数の Stack 間でリソースの共有
 
-## Useful commands
+<img src="/images/image1.png">
 
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
+## ts-rest-api
+
+<img src="/images/image2.png">
+
+- api 実行してフロントから取得確認
+  - file path: ts-rest-api/webTest
+
+<img src="/images/image3.png">
