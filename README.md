@@ -21,3 +21,12 @@ POST: /empl
 ## ts-cw-metrics
 
 <img src="/images/image4.png">
+
+slack への通知テストは以下のコマンドを実行
+webhook を用意して ts-cw-metrics/services/hook.ts:3 に設定
+
+```
+ts-node services/hookTest.ts
+```
+
+Ts-Api4xxAlarm では ts-rest-api でエラーが出た時の Slack 通知のイベントを設定した
