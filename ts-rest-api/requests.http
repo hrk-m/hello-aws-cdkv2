@@ -1,4 +1,4 @@
-@url = https://748dfcp8fd.execute-api.us-east-1.amazonaws.com/prod/
+@url = https://wxq6o74bgh.execute-api.us-east-1.amazonaws.com/prod/
 
 GET {{url}}/empl?id=21b0c42f-6e55-4647-8885-c4903b31d645
 ###
