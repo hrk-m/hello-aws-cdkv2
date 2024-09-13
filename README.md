@@ -30,3 +30,9 @@ ts-node services/hookTest.ts
 ```
 
 Ts-Api4xxAlarm では ts-rest-api でエラーが出た時の Slack 通知のイベントを設定した
+
+##
+
+cloudfront and bucket deployment
+
+<img src="/images/image5.png">
